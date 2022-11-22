@@ -25,4 +25,22 @@
 https://github.com/STIXGT/Recycler_App/archive/refs/tags/1.0.zip
 ```
 
+### Download in tag
+
+##### Step 1
+
+![image](https://user-images.githubusercontent.com/84167751/203208153-df73970a-25b0-449a-8ced-1d346aeb1e73.png)
+
+
+
+
+##### Step 2
+![image](https://user-images.githubusercontent.com/84167751/203208175-2c41bca2-32a9-4217-849c-8fe4511cfc6a.png)
+
+
+
+##### Step 3
+![image](https://user-images.githubusercontent.com/84167751/203208201-2948a21b-062b-4b00-b370-be43b2888bbe.png)
+
+
 ##### Ready for run app 💻
