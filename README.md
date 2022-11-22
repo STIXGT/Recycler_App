@@ -1,8 +1,8 @@
-# Recycler_App of Characters of League of Legends :tw-1f4cc:
+# Recycler_App of Characters of League of Legends ⚔🏹🛡
 
 ## Create for Stiven Guanoquiza 
 
-###### examples grafics in the app :tw-23e9: 
+###### examples grafics in the app 📌
 
 
 image
