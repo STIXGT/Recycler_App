@@ -1,4 +1,4 @@
-# Recycler_App of Characters of League of Legends ⚔🏹🛡
+# Recycler_App of Characters of League of Legends ⚔🏹
 
 ## Create for Stiven Guanoquiza 
 
