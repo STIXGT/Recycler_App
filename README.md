@@ -20,7 +20,7 @@
 
 ### Go to the app
 
-##### copy the link for download app 📲
+##### enter to link for download app 📲
 https://github.com/STIXGT/Recycler_App/archive/refs/tags/1.0.zip
 
 ### Download in tag
